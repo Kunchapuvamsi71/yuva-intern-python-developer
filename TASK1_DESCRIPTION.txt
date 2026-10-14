@@ -1,0 +1,9 @@
+This report documents the completion of Task 1, “Fundamentals and Setup,” for the YuvaIntern Python Developer Fresher internship. The purpose of this task is to establish a basic development workflow and verify that a simple Python program can be created and executed successfully.
+
+The project contains a Python source file named hello_world.py. The program uses Python’s built-in print() function to display a greeting, welcome the learner to the internship, and identify the task. The code uses a main() function and the standard if __name__ == "__main__" entry-point check so that the program has a clear starting point and can be extended in later tasks.
+
+The accompanying README.md explains the project objective, software requirements, execution steps, expected output, file structure, and learning outcomes. The .gitignore file lists common generated files and local environment files that should not normally be committed to version control. These files introduce a simple, organized project structure and encourage good development habits from the beginning.
+
+The task also introduces Git and GitHub as tools for tracking code changes and sharing a project portfolio. To complete the hosting portion, the learner should create a GitHub repository named yuva-intern-python-developer and upload the project files. The repository URL should then be copied into the internship portal. GitHub hosting is a manual account action and must be completed by the learner.
+
+The expected learning outcomes are understanding what a Python source file is, running a script from a terminal, using print() to display output, organizing project files, and recognizing the role of version control. This is a foundational project rather than a large application; it provides a working starting point for the core concepts, practical implementation, testing, and deployment tasks that follow in the internship.
